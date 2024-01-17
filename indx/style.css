@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(216, 157, 127);
+}
+
+
+
+#fearstheadr{
+    color: rgb(105, 102, 41);
+    background-color: rgb(159, 121, 37);
+    font: 100%;
+   font-style: normal;
+
+}
+.imags{
+    width: 30%;
+    clear: none;
+}
+
+*{
+    box-sizing: border-box;
+}
+.fearst{
+    display: flex;
+}
+
+/*Create three equal columns that sits next to each other */
+.now{
+    flex: 33.33%;
+    padding: 5px;
+}
